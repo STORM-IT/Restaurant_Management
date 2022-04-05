@@ -1,0 +1,102 @@
+I:\COD\KFC\DA_KFC\bin\Debug\DA_KFC.dll.config
+I:\COD\KFC\DA_KFC\bin\Debug\DA_KFC.dll
+I:\COD\KFC\DA_KFC\bin\Debug\DA_KFC.pdb
+I:\COD\KFC\DA_KFC\bin\Debug\BE_KFC.dll
+I:\COD\KFC\DA_KFC\bin\Debug\EntityFramework.dll
+I:\COD\KFC\DA_KFC\bin\Debug\BE_KFC.pdb
+I:\COD\KFC\DA_KFC\bin\Debug\EntityFramework.xml
+I:\COD\KFC\DA_KFC\obj\Debug\DA_KFC.csprojAssemblyReference.cache
+I:\COD\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CoreCompileInputs.cache
+I:\COD\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CopyComplete
+I:\COD\KFC\DA_KFC\obj\Debug\DA_KFC.dll
+I:\COD\KFC\DA_KFC\obj\Debug\DA_KFC.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\DA_KFC.dll.config
+I:\backup\KFC\DA_KFC\bin\Debug\DA_KFC.dll
+I:\backup\KFC\DA_KFC\bin\Debug\DA_KFC.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\BE_KFC.dll
+I:\backup\KFC\DA_KFC\bin\Debug\EntityFramework.dll
+I:\backup\KFC\DA_KFC\bin\Debug\BE_KFC.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\BE_KFC.dll.config
+I:\backup\KFC\DA_KFC\bin\Debug\EntityFramework.xml
+I:\backup\KFC\DA_KFC\obj\Debug\DA_KFC.csprojAssemblyReference.cache
+I:\backup\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CoreCompileInputs.cache
+I:\backup\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CopyComplete
+I:\backup\KFC\DA_KFC\obj\Debug\DA_KFC.dll
+I:\backup\KFC\DA_KFC\obj\Debug\DA_KFC.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.dll
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.dll
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.dll
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.xml
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.xml
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.pdb
+I:\backup\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.xml
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\DA_KFC.dll.config
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\DA_KFC.dll
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\DA_KFC.pdb
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\BE_KFC.dll
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\EntityFramework.dll
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.dll
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.dll
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.dll
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\BE_KFC.pdb
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\BE_KFC.dll.config
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\EntityFramework.xml
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.pdb
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.xml
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.pdb
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.xml
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.pdb
+I:\backup\New folder\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.xml
+I:\backup\New folder\KFC\DA_KFC\obj\Debug\DA_KFC.csprojAssemblyReference.cache
+I:\backup\New folder\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CoreCompileInputs.cache
+I:\backup\New folder\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CopyComplete
+I:\backup\New folder\KFC\DA_KFC\obj\Debug\DA_KFC.dll
+I:\backup\New folder\KFC\DA_KFC\obj\Debug\DA_KFC.pdb
+E:\IT\KFC\DA_KFC\bin\Debug\DA_KFC.dll.config
+E:\IT\KFC\DA_KFC\bin\Debug\DA_KFC.dll
+E:\IT\KFC\DA_KFC\bin\Debug\DA_KFC.pdb
+E:\IT\KFC\DA_KFC\bin\Debug\BE_KFC.dll
+E:\IT\KFC\DA_KFC\bin\Debug\EntityFramework.dll
+E:\IT\KFC\DA_KFC\bin\Debug\Guna.UI2.dll
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.dll
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.dll
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.dll
+E:\IT\KFC\DA_KFC\bin\Debug\BE_KFC.pdb
+E:\IT\KFC\DA_KFC\bin\Debug\BE_KFC.dll.config
+E:\IT\KFC\DA_KFC\bin\Debug\EntityFramework.xml
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.pdb
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.xml
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.pdb
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.xml
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.pdb
+E:\IT\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.xml
+E:\IT\KFC\DA_KFC\obj\Debug\DA_KFC.csprojAssemblyReference.cache
+E:\IT\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CoreCompileInputs.cache
+E:\IT\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CopyComplete
+E:\IT\KFC\DA_KFC\obj\Debug\DA_KFC.dll
+E:\IT\KFC\DA_KFC\obj\Debug\DA_KFC.pdb
+I:\backup\new\KFC\DA_KFC\bin\Debug\DA_KFC.dll.config
+I:\backup\new\KFC\DA_KFC\bin\Debug\DA_KFC.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\DA_KFC.pdb
+I:\backup\new\KFC\DA_KFC\bin\Debug\BE_KFC.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\EntityFramework.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\Guna.UI2.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.dll
+I:\backup\new\KFC\DA_KFC\bin\Debug\BE_KFC.pdb
+I:\backup\new\KFC\DA_KFC\bin\Debug\BE_KFC.dll.config
+I:\backup\new\KFC\DA_KFC\bin\Debug\EntityFramework.xml
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.pdb
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.xml
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.pdb
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.WinForms.xml
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.pdb
+I:\backup\new\KFC\DA_KFC\bin\Debug\LiveCharts.Wpf.xml
+I:\backup\new\KFC\DA_KFC\obj\Debug\DA_KFC.csprojAssemblyReference.cache
+I:\backup\new\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CoreCompileInputs.cache
+I:\backup\new\KFC\DA_KFC\obj\Debug\DA_KFC.csproj.CopyComplete
+I:\backup\new\KFC\DA_KFC\obj\Debug\DA_KFC.dll
+I:\backup\new\KFC\DA_KFC\obj\Debug\DA_KFC.pdb

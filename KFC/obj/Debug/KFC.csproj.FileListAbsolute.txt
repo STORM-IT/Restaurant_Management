@@ -1,0 +1,209 @@
+I:\COD\KFC\KFC\bin\Debug\KFC.exe.config
+I:\COD\KFC\KFC\bin\Debug\KFC.exe
+I:\COD\KFC\KFC\bin\Debug\KFC.pdb
+I:\COD\KFC\KFC\bin\Debug\BE_KFC.dll
+I:\COD\KFC\KFC\bin\Debug\BL_KFC.dll
+I:\COD\KFC\KFC\bin\Debug\EntityFramework.dll
+I:\COD\KFC\KFC\bin\Debug\EntityFramework.SqlServer.dll
+I:\COD\KFC\KFC\bin\Debug\DA_KFC.dll
+I:\COD\KFC\KFC\bin\Debug\BE_KFC.pdb
+I:\COD\KFC\KFC\bin\Debug\BL_KFC.pdb
+I:\COD\KFC\KFC\bin\Debug\EntityFramework.xml
+I:\COD\KFC\KFC\bin\Debug\EntityFramework.SqlServer.xml
+I:\COD\KFC\KFC\bin\Debug\DA_KFC.pdb
+I:\COD\KFC\KFC\bin\Debug\DA_KFC.dll.config
+I:\COD\KFC\KFC\obj\Debug\KFC.csprojAssemblyReference.cache
+I:\COD\KFC\KFC\obj\Debug\KFC.Form1.resources
+I:\COD\KFC\KFC\obj\Debug\KFC.Login.resources
+I:\COD\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+I:\COD\KFC\KFC\obj\Debug\KFC.sefaresh.resources
+I:\COD\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.cache
+I:\COD\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+I:\COD\KFC\KFC\obj\Debug\KFC.csproj.CopyComplete
+I:\COD\KFC\KFC\obj\Debug\KFC.exe
+I:\COD\KFC\KFC\obj\Debug\KFC.pdb
+I:\COD\KFC\KFC\bin\Debug\PersianDateTime.dll
+I:\COD\KFC\KFC\bin\Debug\PersianDateTime.xml
+I:\backup\KFC\KFC\bin\Debug\KFC.exe.config
+I:\backup\KFC\KFC\bin\Debug\KFC.exe
+I:\backup\KFC\KFC\bin\Debug\KFC.pdb
+I:\backup\KFC\KFC\bin\Debug\BE_KFC.dll
+I:\backup\KFC\KFC\bin\Debug\BL_KFC.dll
+I:\backup\KFC\KFC\bin\Debug\EntityFramework.dll
+I:\backup\KFC\KFC\bin\Debug\EntityFramework.SqlServer.dll
+I:\backup\KFC\KFC\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+I:\backup\KFC\KFC\bin\Debug\PersianDateTime.dll
+I:\backup\KFC\KFC\bin\Debug\Stimulsoft.Base.dll
+I:\backup\KFC\KFC\bin\Debug\Stimulsoft.Data.dll
+I:\backup\KFC\KFC\bin\Debug\Stimulsoft.Report.dll
+I:\backup\KFC\KFC\bin\Debug\Stimulsoft.Report.Win.dll
+I:\backup\KFC\KFC\bin\Debug\DA_KFC.dll
+I:\backup\KFC\KFC\bin\Debug\Stimulsoft.Controls.Win.dll
+I:\backup\KFC\KFC\bin\Debug\Stimulsoft.Controls.dll
+I:\backup\KFC\KFC\bin\Debug\BE_KFC.pdb
+I:\backup\KFC\KFC\bin\Debug\BE_KFC.dll.config
+I:\backup\KFC\KFC\bin\Debug\BL_KFC.pdb
+I:\backup\KFC\KFC\bin\Debug\EntityFramework.xml
+I:\backup\KFC\KFC\bin\Debug\EntityFramework.SqlServer.xml
+I:\backup\KFC\KFC\bin\Debug\PersianDateTime.xml
+I:\backup\KFC\KFC\bin\Debug\DA_KFC.pdb
+I:\backup\KFC\KFC\bin\Debug\DA_KFC.dll.config
+I:\backup\KFC\KFC\obj\Debug\KFC.csprojAssemblyReference.cache
+I:\backup\KFC\KFC\obj\Debug\KFC.Form1.resources
+I:\backup\KFC\KFC\obj\Debug\KFC.Login.resources
+I:\backup\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+I:\backup\KFC\KFC\obj\Debug\KFC.sefaresh.resources
+I:\backup\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.cache
+I:\backup\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+I:\backup\KFC\KFC\obj\Debug\KFC.csproj.CopyComplete
+I:\backup\KFC\KFC\obj\Debug\KFC.exe
+I:\backup\KFC\KFC\obj\Debug\KFC.pdb
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.dll
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.WinForms.dll
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.Wpf.dll
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.pdb
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.xml
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.WinForms.pdb
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.WinForms.xml
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.Wpf.pdb
+I:\backup\KFC\KFC\bin\Debug\LiveCharts.Wpf.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\KFC.exe.config
+I:\backup\New folder\KFC\KFC\bin\Debug\KFC.exe
+I:\backup\New folder\KFC\KFC\bin\Debug\KFC.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\BE_KFC.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\BL_KFC.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\EntityFramework.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\EntityFramework.SqlServer.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.WinForms.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.Wpf.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\PersianDateTime.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Stimulsoft.Base.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Stimulsoft.Data.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Stimulsoft.Report.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Stimulsoft.Report.Win.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\DA_KFC.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Stimulsoft.Controls.Win.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\Stimulsoft.Controls.dll
+I:\backup\New folder\KFC\KFC\bin\Debug\BE_KFC.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\BE_KFC.dll.config
+I:\backup\New folder\KFC\KFC\bin\Debug\BL_KFC.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\EntityFramework.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\EntityFramework.SqlServer.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.WinForms.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.WinForms.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.Wpf.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\LiveCharts.Wpf.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\PersianDateTime.xml
+I:\backup\New folder\KFC\KFC\bin\Debug\DA_KFC.pdb
+I:\backup\New folder\KFC\KFC\bin\Debug\DA_KFC.dll.config
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.csprojAssemblyReference.cache
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.Cause.resources
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.Form1.resources
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.Login.resources
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.sefaresh.resources
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.cache
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.csproj.CopyComplete
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.exe
+I:\backup\New folder\KFC\KFC\obj\Debug\KFC.pdb
+E:\IT\KFC\KFC\bin\Debug\KFC.exe.config
+E:\IT\KFC\KFC\bin\Debug\KFC.exe
+E:\IT\KFC\KFC\bin\Debug\KFC.pdb
+E:\IT\KFC\KFC\bin\Debug\BE_KFC.dll
+E:\IT\KFC\KFC\bin\Debug\BL_KFC.dll
+E:\IT\KFC\KFC\bin\Debug\EntityFramework.dll
+E:\IT\KFC\KFC\bin\Debug\EntityFramework.SqlServer.dll
+E:\IT\KFC\KFC\bin\Debug\Guna.UI2.dll
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.dll
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.WinForms.dll
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.Wpf.dll
+E:\IT\KFC\KFC\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\IT\KFC\KFC\bin\Debug\PersianDateTime.dll
+E:\IT\KFC\KFC\bin\Debug\Stimulsoft.Base.dll
+E:\IT\KFC\KFC\bin\Debug\Stimulsoft.Data.dll
+E:\IT\KFC\KFC\bin\Debug\Stimulsoft.Report.dll
+E:\IT\KFC\KFC\bin\Debug\Stimulsoft.Report.Win.dll
+E:\IT\KFC\KFC\bin\Debug\DA_KFC.dll
+E:\IT\KFC\KFC\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\IT\KFC\KFC\bin\Debug\Stimulsoft.Controls.dll
+E:\IT\KFC\KFC\bin\Debug\BE_KFC.pdb
+E:\IT\KFC\KFC\bin\Debug\BE_KFC.dll.config
+E:\IT\KFC\KFC\bin\Debug\BL_KFC.pdb
+E:\IT\KFC\KFC\bin\Debug\EntityFramework.xml
+E:\IT\KFC\KFC\bin\Debug\EntityFramework.SqlServer.xml
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.pdb
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.xml
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.WinForms.pdb
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.WinForms.xml
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.Wpf.pdb
+E:\IT\KFC\KFC\bin\Debug\LiveCharts.Wpf.xml
+E:\IT\KFC\KFC\bin\Debug\PersianDateTime.xml
+E:\IT\KFC\KFC\bin\Debug\DA_KFC.pdb
+E:\IT\KFC\KFC\bin\Debug\DA_KFC.dll.config
+E:\IT\KFC\KFC\obj\Debug\KFC.csprojAssemblyReference.cache
+E:\IT\KFC\KFC\obj\Debug\KFC.Cause.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.Edite_Admin.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.Form1.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.info.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.Login.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.option_admin.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.sefaresh.resources
+E:\IT\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.cache
+E:\IT\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+E:\IT\KFC\KFC\obj\Debug\KFC.csproj.CopyComplete
+E:\IT\KFC\KFC\obj\Debug\KFC.exe
+E:\IT\KFC\KFC\obj\Debug\KFC.pdb
+I:\backup\new\KFC\KFC\bin\Debug\KFC.exe.config
+I:\backup\new\KFC\KFC\bin\Debug\KFC.exe
+I:\backup\new\KFC\KFC\bin\Debug\KFC.pdb
+I:\backup\new\KFC\KFC\bin\Debug\BE_KFC.dll
+I:\backup\new\KFC\KFC\bin\Debug\BL_KFC.dll
+I:\backup\new\KFC\KFC\bin\Debug\EntityFramework.dll
+I:\backup\new\KFC\KFC\bin\Debug\EntityFramework.SqlServer.dll
+I:\backup\new\KFC\KFC\bin\Debug\Guna.UI2.dll
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.dll
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.WinForms.dll
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.Wpf.dll
+I:\backup\new\KFC\KFC\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+I:\backup\new\KFC\KFC\bin\Debug\PersianDateTime.dll
+I:\backup\new\KFC\KFC\bin\Debug\Stimulsoft.Base.dll
+I:\backup\new\KFC\KFC\bin\Debug\Stimulsoft.Data.dll
+I:\backup\new\KFC\KFC\bin\Debug\Stimulsoft.Report.dll
+I:\backup\new\KFC\KFC\bin\Debug\Stimulsoft.Report.Win.dll
+I:\backup\new\KFC\KFC\bin\Debug\DA_KFC.dll
+I:\backup\new\KFC\KFC\bin\Debug\Stimulsoft.Controls.Win.dll
+I:\backup\new\KFC\KFC\bin\Debug\Stimulsoft.Controls.dll
+I:\backup\new\KFC\KFC\bin\Debug\BE_KFC.pdb
+I:\backup\new\KFC\KFC\bin\Debug\BE_KFC.dll.config
+I:\backup\new\KFC\KFC\bin\Debug\BL_KFC.pdb
+I:\backup\new\KFC\KFC\bin\Debug\EntityFramework.xml
+I:\backup\new\KFC\KFC\bin\Debug\EntityFramework.SqlServer.xml
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.pdb
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.xml
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.WinForms.pdb
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.WinForms.xml
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.Wpf.pdb
+I:\backup\new\KFC\KFC\bin\Debug\LiveCharts.Wpf.xml
+I:\backup\new\KFC\KFC\bin\Debug\PersianDateTime.xml
+I:\backup\new\KFC\KFC\bin\Debug\DA_KFC.pdb
+I:\backup\new\KFC\KFC\bin\Debug\DA_KFC.dll.config
+I:\backup\new\KFC\KFC\obj\Debug\KFC.csprojAssemblyReference.cache
+I:\backup\new\KFC\KFC\obj\Debug\KFC.Cause.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.Edite_Admin.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.Form1.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.info.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.Login.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.option_admin.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.sefaresh.resources
+I:\backup\new\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.cache
+I:\backup\new\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+I:\backup\new\KFC\KFC\obj\Debug\KFC.csproj.CopyComplete
+I:\backup\new\KFC\KFC\obj\Debug\KFC.exe
+I:\backup\new\KFC\KFC\obj\Debug\KFC.pdb
